@@ -1,4 +1,4 @@
-# Youtube - concept - учебный проект Glo Academy
+# Youtube - concept
 Проект выполнил: Иван Роговский
 
 ## Используемые технологии
